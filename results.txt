@@ -1,0 +1,441 @@
+"94_19_Gloucester_Town_1997"
+  "environment" - 20
+  "water" - 44
+  "energy" - 0
+  "cost" - 4
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 12
+
+"Amazon fights Oregon data center clean energy bill - oregonlive.com"
+  "environment" - 3
+  "water" - 0
+  "energy" - 9
+  "cost" - 1
+  "pollution" - 0
+  "fight" - 1
+  "economy" - 1
+
+"As electricity costs rise, everyone wan...s to pick up their tab. But how_ - OPB"
+  "environment" - 0
+  "water" - 0
+  "energy" - 2
+  "cost" - 25
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"As electricity costs rise, everyone wants data centers to pick up their tab. But how_ - OPB"
+  "environment" - 1
+  "water" - 5
+  "energy" - 12
+  "cost" - 16
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"Bill proposes a Data Center Study Commission for Ohio _ Farm Office"
+  "environment" - 4
+  "water" - 6
+  "energy" - 1
+  "cost" - 0
+  "pollution" - 2
+  "fight" - 0
+  "economy" - 1
+
+"Clock ticking on Virginia budget as Democrats clash over data center tax break • Virginia Mercury"
+  "environment" - 2
+  "water" - 1
+  "energy" - 3
+  "cost" - 4
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"Data Center Expansion - Columbia Riverkeeper (1)"
+  "environment" - 0
+  "water" - 0
+  "energy" - 1
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"Data Center Expansion - Columbia Riverkeeper"
+  "environment" - 0
+  "water" - 0
+  "energy" - 1
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"Data Center Lobbyists Fight Back Against Higher Utility Rates in Ohio - Columbus Underground"
+  "environment" - 0
+  "water" - 0
+  "energy" - 3
+  "cost" - 7
+  "pollution" - 0
+  "fight" - 4
+  "economy" - 0
+
+"Data Centers And Farmers Fight Over Water In Ohio _ Weather.com"
+  "environment" - 4
+  "water" - 107
+  "energy" - 0
+  "cost" - 5
+  "pollution" - 0
+  "fight" - 1
+  "economy" - 0
+
+"Data centers are booming. But there are big energy and environmental risks - OPB"
+  "environment" - 31
+  "water" - 0
+  "energy" - 31
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"Hillsboro Data Centers Gain _Ring_ Stat...Not Telling Us_ - The Hillsboro Herald"
+  "environment" - 2
+  "water" - 5
+  "energy" - 1
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"Hillsboro Data Centers Gain _Ring_ Status With AI & CHINA Involved Now — What Is City Hall Not Telli"
+  "environment" - 3
+  "water" - 4
+  "energy" - 1
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"How Oregon’s Data Center Boom Is Supercharging a Water Crisis"
+  "environment" - 8
+  "water" - 141
+  "energy" - 2
+  "cost" - 2
+  "pollution" - 12
+  "fight" - 3
+  "economy" - 6
+
+"Inside the Dirty, Dystopian World of AI Data Centers - The Atlantic"
+  "environment" - 1
+  "water" - 0
+  "energy" - 1
+  "cost" - 0
+  "pollution" - 1
+  "fight" - 0
+  "economy" - 0
+
+"Ohio Communities Grapple With Data Center Approval Decisions"
+  "environment" - 1
+  "water" - 2
+  "energy" - 6
+  "cost" - 2
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 1
+
+"Ohio eyes data center impact - The Post"
+  "environment" - 9
+  "water" - 4
+  "energy" - 3
+  "cost" - 3
+  "pollution" - 2
+  "fight" - 0
+  "economy" - 0
+
+"Ohio_s data center boom is running into political resistance - Signal Ohio"
+  "environment" - 2
+  "water" - 6
+  "energy" - 5
+  "cost" - 4
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 2
+
+"Petition seeks vote on constitutional amendment to ban large data centers in Ohio"
+  "environment" - 0
+  "water" - 1
+  "energy" - 1
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"ProQuestDocuments-2026-03-28-10"
+  "environment" - 2
+  "water" - 0
+  "energy" - 2
+  "cost" - 0
+  "pollution" - 16
+  "fight" - 0
+  "economy" - 0
+
+"ProQuestDocuments-2026-03-28-11"
+  "environment" - 0
+  "water" - 0
+  "energy" - 0
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"ProQuestDocuments-2026-03-28-12"
+  "environment" - 0
+  "water" - 0
+  "energy" - 19
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"ProQuestDocuments-2026-03-28-13"
+  "environment" - 0
+  "water" - 0
+  "energy" - 0
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"ProQuestDocuments-2026-03-28-14"
+  "environment" - 0
+  "water" - 0
+  "energy" - 0
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"ProQuestDocuments-2026-03-28-15"
+  "environment" - 0
+  "water" - 0
+  "energy" - 0
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"ProQuestDocuments-2026-03-28-16"
+  "environment" - 0
+  "water" - 0
+  "energy" - 0
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"ProQuestDocuments-2026-03-28-17"
+  "environment" - 0
+  "water" - 0
+  "energy" - 0
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"ProQuestDocuments-2026-03-28-18"
+  "environment" - 0
+  "water" - 0
+  "energy" - 0
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"ProQuestDocuments-2026-03-28-19"
+  "environment" - 0
+  "water" - 0
+  "energy" - 4
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"ProQuestDocuments-2026-03-28-2"
+  "environment" - 0
+  "water" - 0
+  "energy" - 0
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"ProQuestDocuments-2026-03-28-20"
+  "environment" - 0
+  "water" - 0
+  "energy" - 4
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"ProQuestDocuments-2026-03-28-21"
+  "environment" - 0
+  "water" - 0
+  "energy" - 0
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"ProQuestDocuments-2026-03-28-22"
+  "environment" - 1
+  "water" - 0
+  "energy" - 0
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"ProQuestDocuments-2026-03-28-3"
+  "environment" - 0
+  "water" - 1
+  "energy" - 2
+  "cost" - 2
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 4
+
+"ProQuestDocuments-2026-03-28-4"
+  "environment" - 0
+  "water" - 0
+  "energy" - 0
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"ProQuestDocuments-2026-03-28-5"
+  "environment" - 0
+  "water" - 0
+  "energy" - 0
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"ProQuestDocuments-2026-03-28-6"
+  "environment" - 0
+  "water" - 0
+  "energy" - 0
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"ProQuestDocuments-2026-03-28-7"
+  "environment" - 0
+  "water" - 0
+  "energy" - 0
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"ProQuestDocuments-2026-03-28-8"
+  "environment" - 0
+  "water" - 0
+  "energy" - 0
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"ProQuestDocuments-2026-03-28-9"
+  "environment" - 0
+  "water" - 0
+  "energy" - 4
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"ProQuestDocuments-2026-03-28"
+  "environment" - 0
+  "water" - 0
+  "energy" - 0
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"Residents push back on data centers in Butler County _ WVXU"
+  "environment" - 5
+  "water" - 4
+  "energy" - 3
+  "cost" - 3
+  "pollution" - 1
+  "fight" - 3
+  "economy" - 0
+
+"The Dalles’ mayor called OPB’s data cen...y inaccurate. Here are the facts - OPB"
+  "environment" - 1
+  "water" - 19
+  "energy" - 0
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"The Dalles’ mayor called OPB’s data center story inaccurate. Here are the facts - OPB"
+  "environment" - 7
+  "water" - 104
+  "energy" - 0
+  "cost" - 1
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 0
+
+"The rush to build Ohio data centers tells us everything that’s wrong with local and state government"
+  "environment" - 2
+  "water" - 0
+  "energy" - 2
+  "cost" - 2
+  "pollution" - 4
+  "fight" - 0
+  "economy" - 0
+
+"Thirsty for power and water, AI-crunching data centers sprout across the West – & the West"
+  "environment" - 9
+  "water" - 70
+  "energy" - 15
+  "cost" - 4
+  "pollution" - 1
+  "fight" - 0
+  "economy" - 3
+
+"fclim-8-1648912"
+  "environment" - 30
+  "water" - 84
+  "energy" - 75
+  "cost" - 15
+  "pollution" - 49
+  "fight" - 0
+  "economy" - 3
+
+"“We’ve Been Very Foolish”_ Inside Orego...Boom - Oregon Center for Public Policy"
+  "environment" - 0
+  "water" - 0
+  "energy" - 0
+  "cost" - 0
+  "pollution" - 0
+  "fight" - 1
+  "economy" - 0
+
+"“We’ve Been Very Foolish”_ Inside Oregon’s Data Center Boom - Oregon Center for Public Policy"
+  "environment" - 2
+  "water" - 2
+  "energy" - 5
+  "cost" - 2
+  "pollution" - 0
+  "fight" - 0
+  "economy" - 1
+
